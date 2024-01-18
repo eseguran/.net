@@ -1,0 +1,14 @@
+/Users/eddysegura/Documents/Adry/.net/.net/HelloWorld/bin/Debug/net8.0/HelloWorld
+/Users/eddysegura/Documents/Adry/.net/.net/HelloWorld/bin/Debug/net8.0/HelloWorld.deps.json
+/Users/eddysegura/Documents/Adry/.net/.net/HelloWorld/bin/Debug/net8.0/HelloWorld.runtimeconfig.json
+/Users/eddysegura/Documents/Adry/.net/.net/HelloWorld/bin/Debug/net8.0/HelloWorld.dll
+/Users/eddysegura/Documents/Adry/.net/.net/HelloWorld/bin/Debug/net8.0/HelloWorld.pdb
+/Users/eddysegura/Documents/Adry/.net/.net/HelloWorld/obj/Debug/net8.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eddysegura/Documents/Adry/.net/.net/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/eddysegura/Documents/Adry/.net/.net/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfo.cs
+/Users/eddysegura/Documents/Adry/.net/.net/HelloWorld/obj/Debug/net8.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/eddysegura/Documents/Adry/.net/.net/HelloWorld/obj/Debug/net8.0/HelloWorld.dll
+/Users/eddysegura/Documents/Adry/.net/.net/HelloWorld/obj/Debug/net8.0/refint/HelloWorld.dll
+/Users/eddysegura/Documents/Adry/.net/.net/HelloWorld/obj/Debug/net8.0/HelloWorld.pdb
+/Users/eddysegura/Documents/Adry/.net/.net/HelloWorld/obj/Debug/net8.0/HelloWorld.genruntimeconfig.cache
+/Users/eddysegura/Documents/Adry/.net/.net/HelloWorld/obj/Debug/net8.0/ref/HelloWorld.dll
